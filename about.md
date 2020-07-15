@@ -1,15 +1,28 @@
 ---
 layout: page
-title: About
+title: About me
 featured_image: /assets/images/pages/about.jpg
 ---
 
-Daniel Bennett is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in **Computer Science**, he worked for three small web shops where he honed his development skills and love for JavaScript.
+東京生まれ東京育ち  
+江戸っ子…と言うのははばかられる西の外れ出身  
+退廃的なもの、郷愁的なものが好きです  
+野球は中日ドラゴンズのファン  
+ピンクのそうめんを食べるとエロくなると未だに信じている  
+中学生レベルの脳みそを持ち合わせています  
 
-His work has been recognized by Communication Arts, IBM, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. **Net** magazine named him a person to watch in 2018.
+Works  
+新卒で入社したSier企業でフィールドエンジニアとして働いた後、  
+WEB企業の情報システム部へ転職  
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Skills  
+Windowsクライアント・サーバー構築&保守  
+VM-ware 仮想化系  
+RPA:UiPath  
+後は趣味にGASでJavaScriptをちょこまか書いたりなどしています。  
 
-As a hobby, Daniel authors the most influential JavaScript blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
 
-*Thank You for reading!*
+今ここにいるあなたと、  
+ほんの少しの時間を共有できたのなら、  
+私は嬉しい限りです。  
+<br>

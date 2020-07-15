@@ -10,3 +10,7 @@ tips:
   name: tips
   description: false
   cover: /assets/images/covers/4.jpg
+Daily:
+  name: Daily
+  description: false
+  cover: /assets/images/covers/4.jpg

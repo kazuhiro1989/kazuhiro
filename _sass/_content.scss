@@ -143,7 +143,7 @@
 }
 
 .post-title a {
-	color: $black;
+	color: $white;
 }
 
 .post-title a:hover {
@@ -155,12 +155,12 @@
 }
 
 .post-meta {
-	color: $gray-light;
+	color: $gray-lighter;
 	font: italic 16px/1.5 $font-secondary;
 }
 
 .post-meta a {
-	color: $gray;
+	color: $gray-lighter;
 }
 
 .post-meta a:hover {

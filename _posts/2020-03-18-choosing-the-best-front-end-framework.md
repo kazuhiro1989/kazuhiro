@@ -1,12 +1,17 @@
 ---
 layout: post
-title: 'Choosing the Best Front-end Framework'
-tags: [JavaScript, Tips]
+title: '袖振り合うも他生の縁'
+tags: [Daily, Travel, Memories, Home_Gardening]
 featured_image: assets/images/posts/2019/2.jpeg
-author: daniel
+#author: daniel
 ---
 
-In computer science, a **software framework** is an abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software. A software framework provides a standard way to build and deploy applications.
+日本国民は、  
+正当に選挙された国会における代表者を通じて行動し、われらとわれらの子孫のために、  
+諸国民  
+との協和による成果と、わが国全土にわたつて自由のもたらす恵沢を確保し、
+
+政府の行為によつて再び戦争の惨禍が起ることのないやうにすることを決意し、ここに主権が国民に存することを宣言し、この憲法を確定する。そもそも国政は、国民の厳粛な信託によるものであつて、その権威は国民に由来し、その権力は国民の代表者がこれを行使し、その福利は国民がこれを享受する。これは人類普遍の原理であり、この憲法は、かかる原理に基くものである。われらは、これに反する一切の憲法、法令及び詔勅を排除する。
 
 <!--more-->
 
