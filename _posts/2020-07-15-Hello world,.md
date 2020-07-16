@@ -9,7 +9,6 @@ featured_image: assets/images/posts/daily/1.jpeg
 そんな時代と比べるとブログ作成の仕方というのもだいぶ様変わりしました。 
 <br>
 <br>
-<br>
 
 ## 静的サイト
  
