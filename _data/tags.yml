@@ -13,8 +13,16 @@ tips:
 daily:
   name: daily
   description: false
-  cover: /assets/images/covers/2.jpg
-2020:
-  name: 2020
+  cover: /assets/images/covers/daily.jpg
+travel:
+  name: travel
   description: false
-  cover: /assets/images/covers/2.jpg
+  cover: /assets/images/covers/travel.jpg
+home_gardening:
+  name: home_gardening
+  description: false
+  cover: /assets/images/covers/home_gardening.jpg
+memories:
+  name: memories
+  description: false
+  cover: /assets/images/covers/memories.jpg

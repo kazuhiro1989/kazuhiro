@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hello world'
-tags: [daily, 2020, javascript, design, tips]
+tags: [daily, 2020, travel, home_gardening, memories]
 featured_image: assets/images/posts/daily/1.jpeg
 ---
 
