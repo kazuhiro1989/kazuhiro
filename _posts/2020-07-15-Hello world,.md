@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hello world'
-tags: [Daily, 2020, javascript, design, tips]
+tags: [daily, 2020, javascript, design, tips]
 featured_image: assets/images/posts/daily/1.jpeg
 ---
 

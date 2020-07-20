@@ -10,8 +10,8 @@ tips:
   name: tips
   description: false
   cover: /assets/images/covers/2.jpg
-Daily:
-  name: Daily
+daily:
+  name: daily
   description: false
   cover: /assets/images/covers/2.jpg
 2020:
