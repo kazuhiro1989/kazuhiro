@@ -22,9 +22,3 @@ RPA：UiPath
 趣味レベル：JavaScript,GoogleAppsScript  
 <br>
 <br>
-<br>
-今ここにいるあなたと、  
-少しの時間を共有できたのなら、  
-嬉しい限りです。    
-<br>
-<br>
