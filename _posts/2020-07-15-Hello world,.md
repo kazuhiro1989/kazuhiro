@@ -2,7 +2,7 @@
 layout: post
 title: 'Hello world'
 tags: [daily, 2020, travel, home_gardening, memories]
-featured_image: assets/images/posts/daily/1.jpeg
+featured_image: assets/images/covers/daily.jpg
 ---
 
 「ジオシティーズ」と聞いてピンとくる人は年齢が特定されそうですが、そんな時代と比べると個人サイト作成の仕方というのもだいぶ様変わりしました。 
