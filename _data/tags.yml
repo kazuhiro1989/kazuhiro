@@ -14,3 +14,7 @@ memories:
   name: memories
   description: false
   cover: /assets/images/covers/memories.jpg
+think:
+  name: think
+  description: false
+  cover: /assets/images/covers/think.jpg
