@@ -8,10 +8,10 @@ favicon: 'assets/images/favicon.ico'
 baseurl:
 production_url: https://kazuhiro.site/
 disqus: 'justgoodthemes'
-mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+mailchimp_url: ''
 cover_image: covers/6.jpeg
 # Add your GA Tracking Id
-ga_analytics: 
+ga_analytics:  UA-173128183-1
 
 # Contact form setings
 email: youremail@email.com
@@ -19,7 +19,7 @@ contact_page_description: "Horace theme comes with a contact form built-in. You 
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
-twitter: 'nemosssu'
+#twitter: 'username'
 #facebook: 'username'
 github: 'kazuhiro1989'
 #codepen: 'username'

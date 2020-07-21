@@ -27,7 +27,7 @@ Gatsbyに挑戦してみたものの、諸々細かい設定が上手くいか�
 ## Jekyllとの出会い
 
 どうしたものかと悩んでいたところ、
-qiitaに掲載されていた[まどれーぬ](https://madoreenu.github.io/2020/05/11/yurufuwa)さんの[ゼロからわかる！GitHub Pagesを使った自前無料ブログの作り方（Jekyll）](https://qiita.com/madoreenu/items/b47833bf785562c77819)という記事を読んで感化され、Jekyllを使って再挑戦。無事に作成できたのでした。    
+qiitaに掲載されていた[まどれーぬ](https://madoreenu.github.io)さんの[ゼロからわかる！GitHub Pagesを使った自前無料ブログの作り方（Jekyll）](https://qiita.com/madoreenu/items/b47833bf785562c77819)という記事を読んで感化され、Jekyllを使って再挑戦。無事に作成できたのでした。    
 ありがとう、まどれーぬさん！（ここまでしっかり記事をまとめているのに、彼はまだ高校生というから驚き！）    
 
 私はWindows環境なので微妙なコマンドの違いはあったものの、ほぼ記事の通りに作成できました。  
