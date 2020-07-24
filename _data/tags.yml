@@ -18,3 +18,7 @@ think:
   name: think
   description: false
   cover: /assets/images/covers/think.jpg
+cooking:
+  name: cooking
+  description: false
+  cover: /assets/images/covers/cooking.jpg
