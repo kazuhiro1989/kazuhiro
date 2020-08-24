@@ -9,6 +9,7 @@ featured_image: assets/images/covers/travel.jpg
 
 この時はたまたま[みちびき(初号機)](https://qzss.go.jp/overview/services/sv01_what.html)の打ち上げと重なり、ロケットの打ち上げも見れたのが最高だった。  
 都会じゃ絶対に見れない天の川、10分に1回は落ちてくる流れ星は、生涯忘れないと思う。  
+
 今度行くときはスーパーカブを乗り回したい。  
 <br>
 <br>
