@@ -28,7 +28,7 @@ featured_image: assets/images/covers/travel.jpg
 というか2時間ほど歩いて目標の半分以下の距離だったので、  
 完全に詰んでいた。  
 
-途中、ガスコンロを鹿児島本土で買い忘れたことに気づき、購入した。  
+途中、ガスボンベを鹿児島本土で買い忘れたことに気づき、購入した。  
 1本単位では売っていなかったので泣く泣く3本セットで購入するしかなく、  
 ただでさえ思い荷物が余計に重たくなった。  
 
@@ -38,13 +38,13 @@ featured_image: assets/images/covers/travel.jpg
 これは旅と言えるのか、荷物を持って歩いているただの家出少年、あるいは浮浪者ではないのか。  
 警察に職務質問されたらリュックの中からガスボンベが3本も出てきて、怪しまれないだろうか。  
 中学時代、塾帰りに後ろのパトカーに道を譲ろうと自転車を加速させたら、  
-逃げたと勘違いされて住宅地でドでかいサイレンを鳴らされて止めさせられたうえ、  
-バックの中身を確認された苦い思い出が蘇る。あの時の警察官はえらく高圧的だった。  
+逃げたと勘違いされて住宅地でドでかいサイレンを鳴らされて止めさせられた苦い思い出が蘇る。  
+バックの中身まで確認してきたあの時の警察官はえらく高圧的だった。  
 でも種子島にはそんな高圧的な警察官はいなそうだし、  
-なんなら交番に泊めてくれるなんてミラクルがあっても良さそうな気がした。  
-しかし、あいにくパトカーのパの字も無いような平和でのどかな風景が広がっていた。  
+なんなら事情を説明したら、交番に泊めてくれるなんてミラクルがあっても良さそうな気がした。  
+しかし、あいにく目の前にはパトカーのパの字も無いような平和でのどかな風景が広がっていた。  
 
-などと意味ないことをあれこれ考えながら黙々と歩き続けた。  
+などとあれこれ考えながら黙々と歩き続けた。  
 
 20時過ぎ、ロケット打ち上げ時間になった。  
 本当に打ち上げられるのか母の情報を若干疑っていたのだけれど、ちゃんと打ち上がった。  
@@ -70,8 +70,8 @@ featured_image: assets/images/covers/travel.jpg
 10分に1回は流れ星が落ちていた。
 「すご！」  
 「やば！」  
-疲れて完全に語彙力が無くなっていたので、そんな驚きの言葉一人でに言っていた。  
-そして、この景色は生涯忘れられないだろうなと思ってぼんやりしていると、
+疲れて完全に語彙力が無くなっていたので、そんな驚きの言葉一人で言っていた。  
+この景色は生涯忘れられないだろうな、なんて思ってぼんやりしていると、
 気づいた時には眠りについていた。  
 
 <br>
@@ -83,7 +83,7 @@ featured_image: assets/images/covers/travel.jpg
 20分程度で市街地に到着した。
 ありがとう文明の利器。ありがとうバスの運転手さん。
 
-自分が人間に生まれたことを感謝しつつ、
+自分が人間に生まれたことに感謝しつつ、
 今日の目的地、中山海岸まで歩く。
 
 {% include image-caption.html imageurl="/assets/images/posts/2020/0722_Tanegashima/002.jpg" title="002" caption="秒速5センチメートル的風景" %}
@@ -91,7 +91,7 @@ featured_image: assets/images/covers/travel.jpg
 {% include image-caption.html imageurl="/assets/images/posts/2020/0722_Tanegashima/003.jpg" title="003" caption="中山海岸" %}
 
 到着後、茂みにリュックを隠して身軽になる。  
-今日は周辺のスポットを巡る予定だ。もちろん歩きで。  
+今日は中山海岸周辺のスポットを巡る予定だ。もちろん歩きで。  
 夏のジリジリと照りつける太陽の下を歩き続け、  
 各スポットを巡った。  
 
@@ -99,11 +99,11 @@ featured_image: assets/images/covers/travel.jpg
 
 {% include image-caption.html imageurl="/assets/images/posts/2020/0722_Tanegashima/005.jpg" title="005" caption="秒速5センチメートル的風景" %}
 
-{% include image-caption.html imageurl="/assets/images/posts/2020/0722_Tanegashima/006.jpg" title="006" caption="買うのはもちろんこの組み合わせ" %}
+{% include image-caption.html imageurl="/assets/images/posts/2020/0722_Tanegashima/008.jpg" title="008" caption="アイショップ石堂店" %}
 
 {% include image-caption.html imageurl="/assets/images/posts/2020/0722_Tanegashima/007.jpg" title="007" caption="アイショップ石堂店のベンチ" %}
 
-{% include image-caption.html imageurl="/assets/images/posts/2020/0722_Tanegashima/008.jpg" title="008" caption="アイショップ石堂店" %}
+{% include image-caption.html imageurl="/assets/images/posts/2020/0722_Tanegashima/006.jpg" title="006" caption="買うのはもちろんこの組み合わせ" %}
 
 {% include image-caption.html imageurl="/assets/images/posts/2020/0722_Tanegashima/010.jpg" title="010" caption="花苗ちゃん家の通り" %}
 
@@ -124,7 +124,8 @@ featured_image: assets/images/covers/travel.jpg
 ありがとう文明の利器。  
 
 海岸の奥の目立たないところにテントを張って夜を迎える。  
-津波が来たら間違いなくテントもろとも流されるような立地だったので、  
+今日も素敵な星空が広がっていて、地面は砂で柔らかく、流れ星まで見えるスイートルームだ。
+がしかし、津波が来たら間違いなくテントもろとも流されるような立地だったので、  
 目が覚めたら太平洋に漂流していた、なんてことがないよう願いつつ、眠った。  
 
 <br>
@@ -170,9 +171,9 @@ featured_image: assets/images/covers/travel.jpg
 のんびりと歩きながら各スポットを回り、夕方には空港へ戻ってきた。  
 最後の飛行機が離陸するのを近くの展望台（丘？）から眺め、  
 この日も適当な場所へテント設営。  
-先ほどのスーパーで買った焼酎を飲みながら、  
+先ほどのスーパーで買った焼酎を飲みながら、今日一日を振り返った。  
 
-種子島で周るスポットは今日の時点で全て訪問し終えているので、  
+種子島で周る予定のスポットは今日の時点で全て訪問し終えているので、  
 明日は岐路につくだけだ。  
 
 深夜、突然の雨が降ってきて、慌ててテントカバーを被せる。  
@@ -191,7 +192,7 @@ featured_image: assets/images/covers/travel.jpg
 
 ちなみに持参したテントは寝るだけのスペースが確保された棺型のテントだったので、テント内で調理する時はうつ伏せで肘をついた状態で行う。  
 テント設計者もまさか中で料理をするなんて使い方は想定していなかっただろう。  
-火事にならなくてよかった。  
+火事にならなくてよかったと今は思う。  
 下手したら棺型テントが本当の棺になっていたところだった。  
 命があるって素晴らしい。  
 
