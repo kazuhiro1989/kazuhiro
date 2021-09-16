@@ -48,7 +48,7 @@ featured_image: assets/images/covers/cooking.jpg
 梅干は今年は赤紫蘇を使って色付けもやってみた。  
 7月半ばに晴天が3日以上続いていたのに干し忘れ、
 結局8月16日の週に土用干しをするという計画性のなさ。  
-来年はちゃんと7月に干したいと思う。  
+来年はちゃんと7月に干したいと思う。。  
 {% include image-caption.html imageurl="/assets/images/posts/2021/0820_cooking/005.jpg" title="005" caption="梅干…を作るために必要だったのは5kgのダンベル" %}
 {% include image-caption.html imageurl="/assets/images/posts/2021/0820_cooking/006.jpg" title="006" caption="遅ればせながらの土用干し" %}
 <br>
