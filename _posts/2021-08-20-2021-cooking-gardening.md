@@ -5,7 +5,7 @@ tags: [cooking, 2021]
 featured_image: assets/images/covers/cooking.jpg
 ---
 
-日々の仕事や家庭のあれこれから逃れて癒しを求めるかの如く作った野菜とか梅料理とかの記録
+日々の仕事や家庭のあれこれから逃れて、癒しを求めるかの如く作った野菜とか梅料理とかの記録
 <br>
 <br>
 
