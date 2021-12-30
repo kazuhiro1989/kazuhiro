@@ -20,4 +20,10 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
   gem 'jekyll-author-page'
+  gem "kramdown-parser-gfm"
+  gem "sdbm"
+  gem "webrick"
+  gem "net-telnet"
+  gem "xmlrpc"
+
 end
